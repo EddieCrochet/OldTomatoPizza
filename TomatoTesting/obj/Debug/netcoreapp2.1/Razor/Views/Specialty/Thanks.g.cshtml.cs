@@ -64,7 +64,7 @@ using TomatoPizzaCafe.Models;
             WriteLiteral("\r\n<h2>Thanks for your order</h2>\r\n<div>\r\n    ");
             EndContext();
             BeginContext(136, 38, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "dcf32595fb914e1c94b1a97242b920ea", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9c8d67c3bbe845d19fb37a8228a342a6", async() => {
                 BeginContext(158, 12, true);
                 WriteLiteral("Back to List");
                 EndContext();
